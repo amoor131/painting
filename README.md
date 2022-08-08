@@ -9,20 +9,20 @@ I wanted to make the program generate something that I could use as a guide for 
 
 At first I was making this program super specialized to make me a pixelated image that resembled the ocean from a top down perspective, but I've since tried making
 the program more generalized. Here's a quick history of this projects developement:
->Tried using python PIL
->Tried using random rectangles to generate image
->Tried mathplotlib quantization to get average colors
->Tried numpy grid to work with mathplotlib
->couldn't get them to work
->Tried PIL again
->Tried PIL and numpy
->Tried PIL and numpy and mathplotlib
->Tried PIL Quantization
->It works!
->Quantization isn't actually what I want
->Quantization gets average of colors, I want mode
->use PIL to get frequency of each color
->success!
+- Tried using python PIL
+- Tried using random rectangles to generate image
+- Tried mathplotlib quantization to get average colors
+- Tried numpy grid to work with mathplotlib
+- couldn't get them to work
+- Tried PIL again
+- Tried PIL and numpy
+- Tried PIL and numpy and mathplotlib
+- Tried PIL Quantization
+- It works!
+- Quantization isn't actually what I want
+- Quantization gets average of colors, I want mode
+- use PIL to get frequency of each color
+- success!
 
 that's pretty much where I'm at. Here is my to do list:
 - prioritize representation of secondary colors to break up solid blocks of color
