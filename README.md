@@ -2,7 +2,7 @@
 This is a WIP python script that takes an image and attempts to pixelate it in an aesthetically pleasing way
 
 My inspiration comes from [reddit user alternateartreality](https://www.reddit.com/user/alternateartreality/?sort=top) who makes very cool art work with
-large blocky brush strokes. More specifically, [this](https://i.redd.it/ekooxh1zknm61.jpg) painting of the earth games me the idea of making a program that
+large blocky brush strokes. More specifically, [this](https://i.redd.it/ekooxh1zknm61.jpg) painting of the earth gave me the idea of making a program that
 could make similar art with large blocky sections.
 
 I wanted to make the program generate something that I could use as a guide for my own painting in this style
